@@ -1,0 +1,9 @@
+{
+	"name": "TestApp",
+	"version": "0.0.1", 
+	"private": true,
+	"scripts": {
+		 "start": "node server.js"
+	},
+	"main": "server.js"
+}
